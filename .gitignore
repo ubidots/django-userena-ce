@@ -43,7 +43,5 @@ demo/media/admin
 # Pycharm
 .idea/
 
-# Poetry
-poetry.lock
 .history
 .vscode
